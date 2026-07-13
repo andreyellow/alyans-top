@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /img/
+Allow: /img/*.jpg
+
+Sitemap: https://alyans-top.ru/sitemap.xml

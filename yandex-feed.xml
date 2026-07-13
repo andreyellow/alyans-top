@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-07-13T18:17+03:00">
+<shop>
+<name>Альянс ТОП</name>
+<company>ООО «Альянс ТОП»</company>
+<url>https://alyans-top.ru</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories><category id="1">Трикотажные манжеты</category></categories>
+<offers>
+<offer id="hbpe" available="true">
+<name>Манжеты смесовые хлопок/полиэстер купить оптом</name>
+<url>https://alyans-top.ru/manzhety-hlopok-poliester/</url>
+<price>9.8</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://alyans-top.ru/img/manzhety-hlopok-pe.jpg</picture>
+<vendor>Альянс ТОП</vendor>
+<description>Бесшовные манжеты из смесовой пряжи хлопок/ПЭ: комфорт натурального волокна и прочность синтетики. Производство в Московской области, доставка по России и СНГ. Минимальная партия — от 1000 пар.</description>
+<sales_notes>Оптовая продажа, минимальная партия от 1000 пар</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="hbpe_leg" available="true">
+<name>Манжеты смесовые для штанин купить оптом</name>
+<url>https://alyans-top.ru/manzhety-dlya-shtanin/</url>
+<price>20</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://alyans-top.ru/img/manzhety-shtaniny.jpg</picture>
+<vendor>Альянс ТОП</vendor>
+<description>Широкие смесовые манжеты хлопок/ПЭ 10×10 см для штанин рабочих брюк и полукомбинезонов. Производство в Московской области, доставка по России и СНГ. Минимальная партия — от 1000 пар.</description>
+<sales_notes>Оптовая продажа, минимальная партия от 1000 пар</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="akril" available="true">
+<name>Трикотажные манжеты акриловые (ПАН) купить оптом</name>
+<url>https://alyans-top.ru/trikotazhnye-manzhety-akrilovye/</url>
+<price>26</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://alyans-top.ru/img/manzhety-akrilovye.jpg</picture>
+<vendor>Альянс ТОП</vendor>
+<description>Универсальные бесшовные манжеты из акриловой пряжи для спецодежды и верхней одежды. Производство в Московской области, доставка по России и СНГ. Минимальная партия — от 1000 пар.</description>
+<sales_notes>Оптовая продажа, минимальная партия от 1000 пар</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="latex" available="true">
+<name>Манжеты акриловые (ПАН) с латексной нитью купить оптом</name>
+<url>https://alyans-top.ru/manzhety-s-lateksnoy-nityu/</url>
+<price>28</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://alyans-top.ru/img/manzhety-lateks.jpg</picture>
+<vendor>Альянс ТОП</vendor>
+<description>Усиленная фиксация на запястье: латексная нить держит форму даже после сотен циклов растяжения. Производство в Московской области, доставка по России и СНГ. Минимальная партия — от 1000 пар.</description>
+<sales_notes>Оптовая продажа, минимальная партия от 1000 пар</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<offer id="akril_leg" available="true">
+<name>Манжеты акриловые (ПАН) для штанин купить оптом</name>
+<url>https://alyans-top.ru/manzhety-dlya-shtanin-akril/</url>
+<price>34</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://alyans-top.ru/img/manzhety-shtaniny-akril.jpg</picture>
+<vendor>Альянс ТОП</vendor>
+<description>Широкие акриловые манжеты 11×10 см для штанин зимних брюк и полукомбинезонов. Чёрный и тёмно-оливковый. Производство в Московской области, доставка по России и СНГ. Минимальная партия — от 1000 пар.</description>
+<sales_notes>Оптовая продажа, минимальная партия от 1000 пар</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+<!-- Манжеты полушерстяные меринос 70/30: цена не задана, товар пропущен. Заполните PRICES['psh'] в build.py -->
+<!-- Арамидные манжеты огнестойкие: цена не задана, товар пропущен. Заполните PRICES['aramid'] в build.py -->
+<!-- Манжеты для медицинских халатов 5,5 см: цена не задана, товар пропущен. Заполните PRICES['med55'] в build.py -->
+<!-- Манжеты для медицинских халатов 6,5 см: цена не задана, товар пропущен. Заполните PRICES['med65'] в build.py -->
+<offer id="med_rulon" available="true">
+<name>Медицинские манжеты в рулоне купить оптом</name>
+<url>https://alyans-top.ru/medicinskie-manzhety-v-rulone/</url>
+<price>500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://alyans-top.ru/img/manzhety-med-rulon.jpg</picture>
+<vendor>Альянс ТОП</vendor>
+<description>Белый медицинский манжетный чулок, намотанный в рулон, — нарезайте манжеты нужной длины прямо на производстве. Производство в Московской области, доставка по России и СНГ. Минимальная партия — от 1000 пар.</description>
+<sales_notes>Оптовая продажа, минимальная партия от 1000 пар</sales_notes>
+<country_of_origin>Россия</country_of_origin>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
